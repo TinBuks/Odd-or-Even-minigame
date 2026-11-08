@@ -1,0 +1,1 @@
+Choose odd or even first, then a number between 1 and 5. The system adds your choice and the randomly generated number between 1 and 5 together. If the end number matches your choice of odd or even, you win or lose the round. 3 rounds are played with the winner being announced at the end with a message.
